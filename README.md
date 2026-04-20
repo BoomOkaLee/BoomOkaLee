@@ -9,7 +9,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Quote goes here"
+> "Applied to 200 jobs. Heard back from 3. This is fine."
 <!-- QUOTE_END -->
 
 ---
@@ -17,7 +17,6 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 🔨 What I'm Working On
 
 - Pretending my side projects count as thesis progress
-- This self-updating README (yes, it commits itself daily)
 
 ### 🎓 PhD & Job Hunt Status
 
