@@ -1,0 +1,27 @@
+name: Daily Quote Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run update script
+        run: python update_quote.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "BoomOkaLee"
+          git config user.email "lyiyang1206@gmail.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "$(python -c "import random; print(random.choice(['🤖 daily quote drop', '📚 today\\'s wisdom (or lack thereof)', '☕ another day another quote']))")"
+          git push
