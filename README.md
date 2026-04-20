@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Applied to 200 jobs. Heard back from 3. This is fine."
+> "I came for the knowledge. I stayed because I'm too deep in to quit."
 <!-- QUOTE_END -->
 
 ---
