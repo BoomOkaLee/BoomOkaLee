@@ -28,7 +28,7 @@ def update_readme(quote_text):
     start_idx = content.index(start_tag) + len(start_tag)
     end_idx = content.index(end_tag)
 
-    new_quote_block = f'\n"{quote_text}"\n'
+    new_quote_block = f'\n> "{quote_text}"\n'
     new_content = content[:start_idx] + new_quote_block + content[end_idx:]
 
     readme_path.write_text(new_content, encoding="utf-8")

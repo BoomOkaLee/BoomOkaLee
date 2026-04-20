@@ -9,7 +9,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-"Quote goes here"
+> "Quote goes here"
 <!-- QUOTE_END -->
 
 ---
@@ -25,6 +25,3 @@ Thesis: it's giving... eventual.
 Applications sent: enough to mass-produce rejection letters.
 Morale: sustained entirely by memes and free conference snacks.
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomOkaLee&show_icons=true&theme=tokyonight&hide_border=true)
