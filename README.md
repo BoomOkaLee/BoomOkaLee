@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Currently in a toxic relationship with my literature review."
+> "Turning rejection emails into motivation. Slowly running out of motivation."
 <!-- QUOTE_END -->
 
 ---
