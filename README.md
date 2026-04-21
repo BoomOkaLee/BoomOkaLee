@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I came for the knowledge. I stayed because I'm too deep in to quit."
+> "Currently in a toxic relationship with my literature review."
 <!-- QUOTE_END -->
 
 ---
