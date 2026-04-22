@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Turning rejection emails into motivation. Slowly running out of motivation."
+> "Peer review: where hope goes to die slowly."
 <!-- QUOTE_END -->
 
 ---
