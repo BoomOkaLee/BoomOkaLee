@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Peer review: where hope goes to die slowly."
+> "ABD: All But Done. Also: Already Been Destroyed."
 <!-- QUOTE_END -->
 
 ---
