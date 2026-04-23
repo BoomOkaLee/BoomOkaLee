@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My GitHub commits are the only consistent thing in my life."
+> "Building things to avoid writing my thesis since 2024."
 <!-- QUOTE_END -->
 
 ---
