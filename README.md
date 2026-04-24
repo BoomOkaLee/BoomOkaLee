@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Building things to avoid writing my thesis since 2024."
+> "Final round interview. Final round rejection. Final form unlocked."
 <!-- QUOTE_END -->
 
 ---
