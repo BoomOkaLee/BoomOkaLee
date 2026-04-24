@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Final round interview. Final round rejection. Final form unlocked."
+> "Rejected by my data, not by my dream."
 <!-- QUOTE_END -->
 
 ---
