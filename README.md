@@ -2,7 +2,7 @@
 
 PhD candidate by day, job application submitter by night.
 Powered by caffeine and Stack Overflow.
-Currently in my "building things to avoid writing my thesis" era.
+Currently in my "building things to avoid writing my dissertation" era.
 
 ---
 
@@ -28,11 +28,11 @@ Currently in my "building things to avoid writing my thesis" era.
 
 ### 🔨 What I'm Working On
 
-- Pretending my side projects count as thesis progress
+- Pretending my side projects count as dissertation progress
 
 ### 🎓 PhD & Job Hunt Status
 
-Thesis: it's giving... eventual.
+dissertation: it's giving... eventual.
 Applications sent: enough to mass-produce rejection letters.
 Morale: sustained entirely by memes and free conference snacks.
 
