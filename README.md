@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my thesis" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Rejected by my data, not by my dream."
+> "Building things to avoid writing my thesis since 2024."
 <!-- QUOTE_END -->
 
 ---
