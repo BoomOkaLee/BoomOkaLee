@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I came for the knowledge. I stayed because I'm too deep in to quit."
+> "Customizing cover letters since forever. Results: pending."
 <!-- QUOTE_END -->
 
 ---
