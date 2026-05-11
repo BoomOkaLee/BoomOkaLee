@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Final round interview. Final round rejection. Final form unlocked."
+> "My methodology is sound. My sanity is not."
 <!-- QUOTE_END -->
 
 ---
