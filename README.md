@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Customizing cover letters since forever. Results: pending."
+> "My future is uncertain. My coffee order is not."
 <!-- QUOTE_END -->
 
 ---
