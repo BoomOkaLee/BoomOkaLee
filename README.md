@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Data collection complete. Will to live: pending."
+> "Still here. Still trying. Still caffeinated."
 <!-- QUOTE_END -->
 
 ---
