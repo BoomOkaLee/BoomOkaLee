@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Still here. Still trying. Still caffeinated."
+> "Debugging code is easy. Debugging my career path is harder."
 <!-- QUOTE_END -->
 
 ---
