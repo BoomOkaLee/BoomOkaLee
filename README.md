@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Job posting requires 5 years experience. I have a PhD. Close enough?"
+> "They said they'd keep my resume on file. It's been 8 months."
 <!-- QUOTE_END -->
 
 ---
