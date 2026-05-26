@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I don't have imposter syndrome. I have imposter certainty."
+> "My GitHub commits are the only consistent thing in my life."
 <!-- QUOTE_END -->
 
 ---
