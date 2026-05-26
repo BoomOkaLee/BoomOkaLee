@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My GitHub commits are the only consistent thing in my life."
+> "Data collection complete. Will to live: pending."
 <!-- QUOTE_END -->
 
 ---
