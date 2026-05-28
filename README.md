@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Currently running on 4 hours of sleep and pure spite."
+> "Applied to 200 jobs. Heard back from 3. This is fine."
 <!-- QUOTE_END -->
 
 ---
