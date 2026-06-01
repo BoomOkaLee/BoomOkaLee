@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "LinkedIn said I'm a 'top applicant'. The hiring managers disagree."
+> "I have transferable skills. Apparently they don't transfer anywhere."
 <!-- QUOTE_END -->
 
 ---
