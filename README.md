@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Defending my dissertation someday. Defending my life choices daily."
+> "Rejected by 47 companies. Building character."
 <!-- QUOTE_END -->
 
 ---
