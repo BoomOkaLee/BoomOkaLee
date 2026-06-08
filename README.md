@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Error 404: Work-life balance not found."
+> "I have transferable skills. Apparently they don't transfer anywhere."
 <!-- QUOTE_END -->
 
 ---
