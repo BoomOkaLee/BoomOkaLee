@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Office hours with my advisor: a masterclass in vague feedback."
+> "Optimizing code. Catastrophizing life. Balance."
 <!-- QUOTE_END -->
 
 ---
