@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "One day I will understand what 'culture fit' means."
+> "They said they'd keep my resume on file. It's been 8 months."
 <!-- QUOTE_END -->
 
 ---
