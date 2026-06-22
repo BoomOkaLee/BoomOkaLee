@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My methodology is sound. My sanity is not."
+> "Job posting requires 5 years experience. I have a PhD. Close enough?"
 <!-- QUOTE_END -->
 
 ---
