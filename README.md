@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "LinkedIn said I'm a 'top applicant'. The hiring managers disagree."
+> "Applied to 200 jobs. Heard back from 3. This is fine."
 <!-- QUOTE_END -->
 
 ---
