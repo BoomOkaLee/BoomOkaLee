@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My research question has a research question."
+> "Defending my dissertation someday. Defending my life choices daily."
 <!-- QUOTE_END -->
 
 ---
