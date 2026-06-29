@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I don't have imposter syndrome. I have imposter certainty."
+> "My methodology is sound. My sanity is not."
 <!-- QUOTE_END -->
 
 ---
