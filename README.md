@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Networking: professionally bothering strangers on the internet."
+> "Currently in a toxic relationship with my literature review."
 <!-- QUOTE_END -->
 
 ---
