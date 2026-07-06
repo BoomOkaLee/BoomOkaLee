@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Defending my dissertation someday. Defending my life choices daily."
+> "One day I will understand what 'culture fit' means."
 <!-- QUOTE_END -->
 
 ---
