@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Building things to avoid writing my dissertation since 2024."
+> "Error 404: Work-life balance not found."
 <!-- QUOTE_END -->
 
 ---
