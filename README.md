@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Peer review: where hope goes to die slowly."
+> "Currently running on 4 hours of sleep and pure spite."
 <!-- QUOTE_END -->
 
 ---
