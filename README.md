@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Error 404: Work-life balance not found."
+> "Debugging code is easy. Debugging my career path is harder."
 <!-- QUOTE_END -->
 
 ---
