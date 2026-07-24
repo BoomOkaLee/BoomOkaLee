@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Rejected by my data, not by my dream."
+> "Rejected by 47 companies. Building character."
 <!-- QUOTE_END -->
 
 ---
