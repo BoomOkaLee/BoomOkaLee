@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My GitHub commits are the only consistent thing in my life."
+> "I read papers so you don't have to. You're welcome."
 <!-- QUOTE_END -->
 
 ---
