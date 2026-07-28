@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My future is uncertain. My coffee order is not."
+> "They said they'd keep my resume on file. It's been 8 months."
 <!-- QUOTE_END -->
 
 ---
