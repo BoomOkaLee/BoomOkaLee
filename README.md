@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My methodology is sound. My sanity is not."
+> "My GitHub commits are the only consistent thing in my life."
 <!-- QUOTE_END -->
 
 ---
