@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My GitHub commits are the only consistent thing in my life."
+> "Todo list: finish PhD, get job, touch grass."
 <!-- QUOTE_END -->
 
 ---
