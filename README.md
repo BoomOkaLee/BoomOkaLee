@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Customizing cover letters since forever. Results: pending."
+> "My research question has a research question."
 <!-- QUOTE_END -->
 
 ---
