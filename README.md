@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "They said they'd keep my resume on file. It's been 8 months."
+> "ABD: All But Done. Also: Already Been Destroyed."
 <!-- QUOTE_END -->
 
 ---
