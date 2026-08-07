@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Currently in a toxic relationship with my literature review."
+> "Powered by caffeine, Stack Overflow, and sheer stubbornness."
 <!-- QUOTE_END -->
 
 ---
