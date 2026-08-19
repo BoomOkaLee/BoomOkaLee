@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My research question has a research question."
+> "Networking: professionally bothering strangers on the internet."
 <!-- QUOTE_END -->
 
 ---
