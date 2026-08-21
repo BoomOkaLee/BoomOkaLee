@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Stack Overflow has never let me down. Unlike job applications."
+> "Rejected by 47 companies. Building character."
 <!-- QUOTE_END -->
 
 ---
