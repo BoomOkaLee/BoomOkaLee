@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Saving the world, one failed experiment at a time."
+> "They said they'd keep my resume on file. It's been 8 months."
 <!-- QUOTE_END -->
 
 ---
