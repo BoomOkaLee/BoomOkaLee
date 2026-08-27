@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Still here. Still trying. Still caffeinated."
+> "One day I will understand what 'culture fit' means."
 <!-- QUOTE_END -->
 
 ---
