@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I came for the knowledge. I stayed because I'm too deep in to quit."
+> "One day I will understand what 'culture fit' means."
 <!-- QUOTE_END -->
 
 ---
