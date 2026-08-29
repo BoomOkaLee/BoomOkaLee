@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Todo list: finish PhD, get job, touch grass."
+> "I came for the knowledge. I stayed because I'm too deep in to quit."
 <!-- QUOTE_END -->
 
 ---
