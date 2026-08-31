@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Saving the world, one failed experiment at a time."
+> "Stack Overflow has never let me down. Unlike job applications."
 <!-- QUOTE_END -->
 
 ---
