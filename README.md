@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Stack Overflow has never let me down. Unlike job applications."
+> "Job posting requires 5 years experience. I have a PhD. Close enough?"
 <!-- QUOTE_END -->
 
 ---
