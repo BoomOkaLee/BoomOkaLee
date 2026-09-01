@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Turning rejection emails into motivation. Slowly running out of motivation."
+> "Applied to 200 jobs. Heard back from 3. This is fine."
 <!-- QUOTE_END -->
 
 ---
