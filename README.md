@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Applied to 200 jobs. Heard back from 3. This is fine."
+> "Recruiter ghosted me. Adding it to the collection."
 <!-- QUOTE_END -->
 
 ---
