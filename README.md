@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Dissertation progress: 3 pages written, 47 tabs open."
+> "Error 404: Work-life balance not found."
 <!-- QUOTE_END -->
 
 ---
