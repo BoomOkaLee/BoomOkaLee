@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Sleep deprived but make it academic."
+> "My methodology is sound. My sanity is not."
 <!-- QUOTE_END -->
 
 ---
