@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My dissertation supervisor said 'interesting'… still decoding that."
+> "Recruiter ghosted me. Adding it to the collection."
 <!-- QUOTE_END -->
 
 ---
