@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I came for the knowledge. I stayed because I'm too deep in to quit."
+> "Turning rejection emails into motivation. Slowly running out of motivation."
 <!-- QUOTE_END -->
 
 ---
