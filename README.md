@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Currently running on 4 hours of sleep and pure spite."
+> "Data collection complete. Will to live: pending."
 <!-- QUOTE_END -->
 
 ---
