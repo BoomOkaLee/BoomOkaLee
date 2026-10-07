@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "One day I will understand what 'culture fit' means."
+> "Currently running on 4 hours of sleep and pure spite."
 <!-- QUOTE_END -->
 
 ---
