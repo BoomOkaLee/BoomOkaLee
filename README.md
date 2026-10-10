@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I came for the knowledge. I stayed because I'm too deep in to quit."
+> "Currently running on 4 hours of sleep and pure spite."
 <!-- QUOTE_END -->
 
 ---
