@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Currently running on 4 hours of sleep and pure spite."
+> "Defending my dissertation someday. Defending my life choices daily."
 <!-- QUOTE_END -->
 
 ---
