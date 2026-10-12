@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "They said they'd keep my resume on file. It's been 8 months."
+> "Defending my dissertation someday. Defending my life choices daily."
 <!-- QUOTE_END -->
 
 ---
