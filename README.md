@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Debugging code is easy. Debugging my career path is harder."
+> "I came for the knowledge. I stayed because I'm too deep in to quit."
 <!-- QUOTE_END -->
 
 ---
