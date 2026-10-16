@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Saving the world, one failed experiment at a time."
+> "Powered by caffeine, Stack Overflow, and sheer stubbornness."
 <!-- QUOTE_END -->
 
 ---
