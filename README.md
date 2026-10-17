@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Powered by caffeine, Stack Overflow, and sheer stubbornness."
+> "My dissertation supervisor said 'interesting'… still decoding that."
 <!-- QUOTE_END -->
 
 ---
