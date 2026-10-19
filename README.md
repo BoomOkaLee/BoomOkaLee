@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Peer review: where hope goes to die slowly."
+> "My dissertation supervisor said 'interesting'… still decoding that."
 <!-- QUOTE_END -->
 
 ---
