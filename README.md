@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Data collection complete. Will to live: pending."
+> "I came for the knowledge. I stayed because I'm too deep in to quit."
 <!-- QUOTE_END -->
 
 ---
