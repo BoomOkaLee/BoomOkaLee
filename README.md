@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I read papers so you don't have to. You're welcome."
+> "Turning rejection emails into motivation. Slowly running out of motivation."
 <!-- QUOTE_END -->
 
 ---
