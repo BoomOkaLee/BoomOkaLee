@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My research question has a research question."
+> "I read papers so you don't have to. You're welcome."
 <!-- QUOTE_END -->
 
 ---
