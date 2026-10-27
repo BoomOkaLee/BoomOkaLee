@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Turning rejection emails into motivation. Slowly running out of motivation."
+> "Todo list: finish PhD, get job, touch grass."
 <!-- QUOTE_END -->
 
 ---
