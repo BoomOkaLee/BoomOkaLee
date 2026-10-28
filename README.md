@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Defending my dissertation someday. Defending my life choices daily."
+> "Peer review: where hope goes to die slowly."
 <!-- QUOTE_END -->
 
 ---
