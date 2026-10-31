@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I don't have imposter syndrome. I have imposter certainty."
+> "Dissertation progress: 3 pages written, 47 tabs open."
 <!-- QUOTE_END -->
 
 ---
