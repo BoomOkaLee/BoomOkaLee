@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Defending my dissertation someday. Defending my life choices daily."
+> "Office hours with my advisor: a masterclass in vague feedback."
 <!-- QUOTE_END -->
 
 ---
