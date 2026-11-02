@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Office hours with my advisor: a masterclass in vague feedback."
+> "I don't have imposter syndrome. I have imposter certainty."
 <!-- QUOTE_END -->
 
 ---
