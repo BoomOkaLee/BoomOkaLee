@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "ABD: All But Done. Also: Already Been Destroyed."
+> "My future is uncertain. My coffee order is not."
 <!-- QUOTE_END -->
 
 ---
