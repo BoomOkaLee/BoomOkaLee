@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My future is uncertain. My coffee order is not."
+> "Sleep deprived but make it academic."
 <!-- QUOTE_END -->
 
 ---
