@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Recruiter ghosted me. Adding it to the collection."
+> "Dissertation progress: 3 pages written, 47 tabs open."
 <!-- QUOTE_END -->
 
 ---
