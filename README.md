@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Todo list: finish PhD, get job, touch grass."
+> "Networking: professionally bothering strangers on the internet."
 <!-- QUOTE_END -->
 
 ---
