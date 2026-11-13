@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "I don't have imposter syndrome. I have imposter certainty."
+> "Building things to avoid writing my dissertation since 2024."
 <!-- QUOTE_END -->
 
 ---
