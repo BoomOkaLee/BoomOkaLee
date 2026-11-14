@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Recruiter ghosted me. Adding it to the collection."
+> "Optimizing code. Catastrophizing life. Balance."
 <!-- QUOTE_END -->
 
 ---
