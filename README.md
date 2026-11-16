@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "Job posting requires 5 years experience. I have a PhD. Close enough?"
+> "Saving the world, one failed experiment at a time."
 <!-- QUOTE_END -->
 
 ---
