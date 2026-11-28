@@ -21,7 +21,7 @@ Currently in my "building things to avoid writing my dissertation" era.
 ### 💬 Daily Quote
 
 <!-- QUOTE_START -->
-> "My future is uncertain. My coffee order is not."
+> "One day I will understand what 'culture fit' means."
 <!-- QUOTE_END -->
 
 ---
